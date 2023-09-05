@@ -98,7 +98,7 @@
                   <div class="center-line"></div>
                </div>
                <br>
-               <div class="col-md-6 text-justify link-contrast">En tiempos de cambios importantes, nace SoluGraphics Chile entregando productos de vanguardia, con marcas líderes del mercado gráfico, colocando a disposición de nuestros clientes soluciones oportunas, innovadoras, y con las mejores características técnicas que permiten a nuestros clientes incrementar su productividad y por consecuencia logren aumentar sus ingresos. SoluGraphics irrumpe con un equipo comercial con basta experiencia en el mundo gráfico, y con técnicos especialistas enfocados en soluciones integrales para el segmento de impresión y terminación.<br><br><br><br><br><br>
+               <div class="col-md-6 text-justify link-contrast">En tiempos de cambios importantes, nace SoluGraphics Chile entregando productos de vanguardia, con marcas líderes del mercado gráfico, colocando a disposición de nuestros clientes soluciones oportunas, innovadoras, y con las mejores características técnicas que permiten a nuestros clientes incrementar su productividad y por consecuencia logren aumentar sus ingresos. SoluGraphics irrumpe con un equipo comercial con basta experiencia en el mundo gráfico, y con técnicos especialistas enfocados en soluciones integrales para el segmento de impresión y terminación.
                   <!-- <img width="100%" src="assets/images/nosotros/reunion.jpeg" alt=""> -->
                </div>
                <!-- <div class="col-md-6">
