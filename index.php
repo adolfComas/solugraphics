@@ -536,7 +536,17 @@
                   <div class="blog-name link-contrast"><strong>Gerardo Rivera<br>Gerente General</strong></div>
                 </div>
               </div>
-              
+
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 col-ms-12">
+                <div class="blog-main">
+                  <div class="blog-images">
+                      <img src="assets/images/nosotros/manuel.jpg" alt="">
+                  </div>
+                  <div class="blog-icon"><a href="https://www.linkedin.com/in/manuel-fuenzalida-b-91287138/"><i class="fa fa-linkedin"></i></a></div>
+                  <div class="blog-name link-contrast"><strong>Manuel Fuenzalida<br>Gerente Comercial</strong></div>
+                </div>
+              </div>
+
               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 col-ms-12">
                 <div class="blog-main">
                   <div class="blog-images">
