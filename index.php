@@ -77,7 +77,7 @@
       <div class="tp-banner-container" style="height:500px;">
         <div class="tp-banner" >
           <ul style="display:none;">
-            <li data-transition="fade" data-slotamount="7" data-masterspeed="700" >
+            <!-- <li data-transition="fade" data-slotamount="7" data-masterspeed="700" >
               <img src="assets/images/slider/00.jpg"  alt=""  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
               <div class="tp-caption largeblackbg sfb"
                 data-x="center"
@@ -127,7 +127,7 @@
                 data-captionhidden="on"
                 style="z-index: 9">
               </div>
-            </li>
+            </li> -->
             <li data-transition="fade" data-slotamount="7" data-masterspeed="700" >
               <img src="assets/images/slider/05.jpg"  alt=""  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
               <div class="tp-caption largeblackbg sfb"
