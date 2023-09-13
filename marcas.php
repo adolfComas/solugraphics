@@ -91,7 +91,7 @@
       </div>
       <div class="container text-center">
         <div class="row">
-          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><img width="75%" src="assets/images/svg/MarkAndy.svg" alt=""><br><div class="text-center"></div></div>
+          <!-- <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><img width="75%" src="assets/images/svg/MarkAndy.svg" alt=""><br><div class="text-center"></div></div> -->
           <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><img width="75%" src="assets/images/svg/NewFoilMachines.svg" alt=""><br><div class="text-center"></div></div>
           <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"><img width="75%" src="assets/images/svg/CreativeEdge.svg" alt=""><br><div class="text-center"></div></div>
         </div>
@@ -140,7 +140,7 @@
                <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="promo-text-footer">Marcas</div>
                   <ul class="tags-footer">
-                  <li><a href="https://www.markandy.com" target="_blank">Mark Andy</a></li>
+                  <!-- <li><a href="https://www.markandy.com" target="_blank">Mark Andy</a></li> -->
                   <li><a href="http://newfoilmachines.co.uk" target="_blank">NewFoilMachinesLtda</a></li>
                   <li><a href="https://www.creativeedgesoftware.com/ic3d/" target="_blank">Creative Edge Software</a></li>
                   <li><a href="https://www.cla.canon.com/cla/es/home" target="_blank">Canon</a></li>
