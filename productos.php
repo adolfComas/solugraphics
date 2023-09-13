@@ -90,15 +90,15 @@
         </div>
         <div class="container marg50">
 
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-md-4"></div>
             <div class="col-md-4">
               <img width="75%" src="assets/images/svg/MarkAndy.svg">
             </div>
             <div class="col-md-4"></div>
-          </div>
+          </div> -->
 
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-md-4">
              <a href="assets/images/maquinas/DigitalHD.png" class="zoom"><img width="100%" src="assets/images/maquinas/DigitalHD.png" alt=""></a>
              <br>
@@ -114,7 +114,7 @@
               <br>
               <h4 class="link-contrast">Digital Pro</h4>
             </div>
-          </div>
+          </div> -->
           
           <hr style="border: 1px solid #F15A24; width: 25%">
 
@@ -242,7 +242,7 @@
             <div id="marcas" class="col-lg-4 col-md-4 col-sm-4">
               <div class="promo-text-footer">Marcas</div>
               <ul class="tags-footer">
-                  <li><a href="https://www.markandy.com" target="_blank">Mark Andy</a></li>
+                  <!-- <li><a href="https://www.markandy.com" target="_blank">Mark Andy</a></li> -->
                   <li><a href="http://newfoilmachines.co.uk" target="_blank">NewFoilMachinesLtda</a></li>
                   <li><a href="https://www.creativeedgesoftware.com/ic3d/" target="_blank">Creative Edge Software</a></li>
                   <li><a href="https://www.cla.canon.com/cla/es/home" target="_blank">Canon</a></li>
