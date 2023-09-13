@@ -433,12 +433,12 @@
         <div class="container marg50">
 
           <div class="row">
-            <div class="col-md-3">
+            <!-- <div class="col-md-3">
               <img width="75%" src="assets/images/svg/MarkAndy.svg"><br>
               <a href="assets/images/maquinas/DigitalHD.png" class="zoom"><img width="100%" src="assets/images/maquinas/DigitalHD.png" alt=""></a>
              <br>
              <h4 class="link-contrast">Digital Pro HD</h4>
-           </div>
+           </div> -->
             <div class="col-md-3">
               <img width="75%" src="assets/images/svg/MidaLemu.svg">
               <a href="assets/images/maquinas/MA350.png" class="zoom"><img width="100%" src="assets/images/maquinas/MA350.png" alt=""></a><br>
@@ -564,7 +564,7 @@
             <div class="jcarousel-wrapper">
               <div class="jcarousel" data-jcarousel="true">
                 <ul style="left: -720px; top: 0px;">
-                  <li><a href="https://www.markandy.com" target="_blank"><img width="75%" src="assets/images/svg/MarkAndy.svg" alt=""></a></li>
+                  <!-- <li><a href="https://www.markandy.com" target="_blank"><img width="75%" src="assets/images/svg/MarkAndy.svg" alt=""></a></li> -->
                   <li><a href="http://newfoilmachines.co.uk" target="_blank"><img width="75%" src="assets/images/svg/NewFoilMachines.svg" alt=""></a></li>
                   <li><a href="https://www.creativeedgesoftware.com/ic3d/" target="_blank"><img width="75%" src="assets/images/svg/CreativeEdge.svg" alt=""></a></li>
                   <li><a href="https://www.cla.canon.com/cla/es/home" target="_blank"><img width="75%" src="assets/images/svg/Canon.svg" alt=""></a></li>
@@ -626,7 +626,7 @@
             <div id="marcas" class="col-lg-4 col-md-4 col-sm-4">
               <div class="promo-text-footer">Marcas</div>
               <ul class="tags-footer">
-                  <li><a href="https://www.markandy.com" target="_blank">Mark Andy</a></li>
+                  <!-- <li><a href="https://www.markandy.com" target="_blank">Mark Andy</a></li> -->
                   <li><a href="http://newfoilmachines.co.uk" target="_blank">NewFoilMachinesLtda</a></li>
                   <li><a href="https://www.creativeedgesoftware.com/ic3d/" target="_blank">Creative Edge Software</a></li>
                   <li><a href="https://www.cla.canon.com/cla/es/home" target="_blank">Canon</a></li>
